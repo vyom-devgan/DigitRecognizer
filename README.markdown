@@ -64,6 +64,5 @@ DigitRecognizer/
 │   └── test_model.py
 ├── app.py
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
